@@ -1,0 +1,1 @@
+FinanceBench is a first-of-its-kind test suite for evaluating the performance of LLMs on open book financial question answering (QA). Attatched is a script to evaluate your model output using FinanceBench!
